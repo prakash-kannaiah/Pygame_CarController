@@ -34,6 +34,6 @@ This project is a simple simulation using Pygame that demonstrates basic car con
 
 Run the main script using Python:
 ```bash
-python main.py
+python CarController.py
 ```
 The window will display, and you can control the car using the arrow keys or 'W', 'A', 'S', 'D'.
