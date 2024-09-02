@@ -2,7 +2,7 @@
 """
 Created on Mon Sep  2 09:24:53 2024
 
-@author: edute
+@author: prakash kannaiah_edutech
 """
 
 import pygame
