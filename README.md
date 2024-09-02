@@ -17,12 +17,12 @@ This project is a simple simulation using Pygame that demonstrates basic car con
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/car-control-simulation.git
+    https://github.com/prakash-kannaiah/Pygame_CarController.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd car-control-simulation
+    cd Pygame_CarController
     ```
 
 3. Install the required Python package:
